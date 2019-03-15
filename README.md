@@ -1,5 +1,5 @@
 # MKS66-3d
-###Commands are added to the parser:
+### Commands are added to the parser:
 - clear: clears the edge matrix of all points  
 - box: adds a rectangular prism (box) to the edge matrix - takes 6 parameters (x, y, z, width, height, depth)
 - sphere: adds a sphere to the edge matrix - takes 4 parameters (x, y, z, radius)
